@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "companyid": 1,
+    "data_consumption": 66081,
+    "month": 1,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 2,
+    "companyid": 1,
+    "data_consumption": 119294,
+    "month": 2,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 3,
+    "companyid": 1,
+    "data_consumption": 48763,
+    "month": 3,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 4,
+    "companyid": 1,
+    "data_consumption": 128930,
+    "month": 4,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 5,
+    "companyid": 1,
+    "data_consumption": 119093,
+    "month": 5,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 6,
+    "companyid": 1,
+    "data_consumption": 110969,
+    "month": 6,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 7,
+    "companyid": 1,
+    "data_consumption": 49692,
+    "month": 7,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 8,
+    "companyid": 1,
+    "data_consumption": 42779,
+    "month": 8,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 9,
+    "companyid": 1,
+    "data_consumption": 117737,
+    "month": 9,
+    "status": "unpaid",
+    "year": 2021
+  },
+  {
+    "id": 10,
+    "companyid": 2,
+    "data_consumption": 66548,
+    "month": 6,
+    "status": "paid",
+    "year": 2019
+  },
+  {
+    "id": 11,
+    "companyid": 2,
+    "data_consumption": 8873,
+    "month": 7,
+    "status": "paid",
+    "year": 2019
+  },
+  {
+    "id": 12,
+    "companyid": 2,
+    "data_consumption": 83661,
+    "month": 8,
+    "status": "paid",
+    "year": 2019
+  },
+  {
+    "id": 13,
+    "companyid": 2,
+    "data_consumption": 74870,
+    "month": 9,
+    "status": "paid",
+    "year": 2020
+  },
+  {
+    "id": 14,
+    "companyid": 2,
+    "data_consumption": 54586,
+    "month": 10,
+    "status": "paid",
+    "year": 2020
+  },
+  {
+    "id": 15,
+    "companyid": 2,
+    "data_consumption": 45608,
+    "month": 11,
+    "status": "paid",
+    "year": 2020
+  },
+  {
+    "id": 16,
+    "companyid": 2,
+    "data_consumption": 59883,
+    "month": 12,
+    "status": "paid",
+    "year": 2020
+  },
+  {
+    "id": 17,
+    "companyid": 2,
+    "data_consumption": 17664,
+    "month": 1,
+    "status": "paid",
+    "year": 2020
+  },
+  {
+    "id": 18,
+    "companyid": 2,
+    "data_consumption": 44709,
+    "month": 2,
+    "status": "unpaid",
+    "year": 2020
+  },
+  {
+    "id": 19,
+    "companyid": 3,
+    "data_consumption": 57623,
+    "month": 10,
+    "status": "paid",
+    "year": 2020
+  },
+  {
+    "id": 20,
+    "companyid": 3,
+    "data_consumption": 60392,
+    "month": 11,
+    "status": "paid",
+    "year": 2020
+  },
+  {
+    "id": 21,
+    "companyid": 3,
+    "data_consumption": 4540,
+    "month": 12,
+    "status": "paid",
+    "year": 2020
+  },
+  {
+    "id": 22,
+    "companyid": 3,
+    "data_consumption": 6527,
+    "month": 1,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 23,
+    "companyid": 3,
+    "data_consumption": 43639,
+    "month": 2,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 24,
+    "companyid": 3,
+    "data_consumption": 36962,
+    "month": 3,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 25,
+    "companyid": 3,
+    "data_consumption": 35944,
+    "month": 4,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 26,
+    "companyid": 3,
+    "data_consumption": 26855,
+    "month": 5,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 27,
+    "companyid": 3,
+    "data_consumption": 44377,
+    "month": 6,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 28,
+    "companyid": 3,
+    "data_consumption": 36198,
+    "month": 7,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 29,
+    "companyid": 3,
+    "data_consumption": 21128,
+    "month": 8,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 30,
+    "companyid": 3,
+    "data_consumption": 36491,
+    "month": 9,
+    "status": "unpaid",
+    "year": 2021
+  },
+  {
+    "id": 31,
+    "companyid": 4,
+    "data_consumption": 2290,
+    "month": 10,
+    "status": "paid",
+    "year": 2020
+  },
+  {
+    "id": 32,
+    "companyid": 4,
+    "data_consumption": 28347,
+    "month": 11,
+    "status": "paid",
+    "year": 2020
+  },
+  {
+    "id": 33,
+    "companyid": 4,
+    "data_consumption": 2734,
+    "month": 12,
+    "status": "paid",
+    "year": 2020
+  },
+  {
+    "id": 34,
+    "companyid": 4,
+    "data_consumption": 24514,
+    "month": 1,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 35,
+    "companyid": 4,
+    "data_consumption": 39190,
+    "month": 2,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 36,
+    "companyid": 4,
+    "data_consumption": 29727,
+    "month": 3,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 37,
+    "companyid": 4,
+    "data_consumption": 38888,
+    "month": 4,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 38,
+    "companyid": 4,
+    "data_consumption": 5665,
+    "month": 5,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 39,
+    "companyid": 4,
+    "data_consumption": 17891,
+    "month": 6,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 40,
+    "companyid": 4,
+    "data_consumption": 24219,
+    "month": 7,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 41,
+    "companyid": 4,
+    "data_consumption": 8206,
+    "month": 8,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 42,
+    "companyid": 4,
+    "data_consumption": 16224,
+    "month": 9,
+    "status": "unpaid",
+    "year": 2021
+  },
+  {
+    "id": 43,
+    "companyid": 5,
+    "data_consumption": 26722,
+    "month": 9,
+    "status": "paid",
+    "year": 2020
+  },
+  {
+    "id": 44,
+    "companyid": 5,
+    "data_consumption": 20642,
+    "month": 10,
+    "status": "paid",
+    "year": 2020
+  },
+  {
+    "id": 45,
+    "companyid": 5,
+    "data_consumption": 24975,
+    "month": 11,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 46,
+    "companyid": 5,
+    "data_consumption": 35429,
+    "month": 12,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 47,
+    "companyid": 5,
+    "data_consumption": 14465,
+    "month": 1,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 48,
+    "companyid": 5,
+    "data_consumption": 26071,
+    "month": 2,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 49,
+    "companyid": 5,
+    "data_consumption": 38581,
+    "month": 3,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 50,
+    "companyid": 5,
+    "data_consumption": 9370,
+    "month": 4,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 51,
+    "companyid": 5,
+    "data_consumption": 7768,
+    "month": 5,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 52,
+    "companyid": 5,
+    "data_consumption": 46527,
+    "month": 6,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 53,
+    "companyid": 5,
+    "data_consumption": 67760,
+    "month": 7,
+    "status": "unpaid",
+    "year": 2021
+  },
+  {
+    "id": 54,
+    "companyid": 6,
+    "data_consumption": 15820,
+    "month": 1,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 55,
+    "companyid": 6,
+    "data_consumption": 25589,
+    "month": 2,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 56,
+    "companyid": 6,
+    "data_consumption": 132857,
+    "month": 3,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 57,
+    "companyid": 6,
+    "data_consumption": 121203,
+    "month": 4,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 58,
+    "companyid": 6,
+    "data_consumption": 51725,
+    "month": 5,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 59,
+    "companyid": 6,
+    "data_consumption": 530,
+    "month": 6,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 60,
+    "companyid": 6,
+    "data_consumption": 34474,
+    "month": 7,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 61,
+    "companyid": 6,
+    "data_consumption": 24465,
+    "month": 8,
+    "status": "unpaid",
+    "year": 2021
+  },
+  {
+    "id": 62,
+    "companyid": 7,
+    "data_consumption": 35600,
+    "month": 6,
+    "status": "paid",
+    "year": 2019
+  },
+  {
+    "id": 63,
+    "companyid": 7,
+    "data_consumption": 19975,
+    "month": 7,
+    "status": "paid",
+    "year": 2019
+  },
+  {
+    "id": 64,
+    "companyid": 7,
+    "data_consumption": 3691,
+    "month": 8,
+    "status": "paid",
+    "year": 2019
+  },
+  {
+    "id": 65,
+    "companyid": 7,
+    "data_consumption": 29856,
+    "month": 9,
+    "status": "paid",
+    "year": 2019
+  },
+  {
+    "id": 66,
+    "companyid": 7,
+    "data_consumption": 21472,
+    "month": 10,
+    "status": "paid",
+    "year": 2019
+  },
+  {
+    "id": 67,
+    "companyid": 7,
+    "data_consumption": 19060,
+    "month": 11,
+    "status": "paid",
+    "year": 2019
+  },
+  {
+    "id": 68,
+    "companyid": 7,
+    "data_consumption": 7909,
+    "month": 12,
+    "status": "paid",
+    "year": 2019
+  },
+  {
+    "id": 69,
+    "companyid": 7,
+    "data_consumption": 39348,
+    "month": 1,
+    "status": "paid",
+    "year": 2020
+  },
+  {
+    "id": 70,
+    "companyid": 7,
+    "data_consumption": 105180,
+    "month": 1,
+    "status": "paid",
+    "year": 2020
+  },
+  {
+    "id": 71,
+    "companyid": 8,
+    "data_consumption": 94858,
+    "month": 12,
+    "status": "paid",
+    "year": 2020
+  },
+  {
+    "id": 72,
+    "companyid": 8,
+    "data_consumption": 112354,
+    "month": 1,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 73,
+    "companyid": 8,
+    "data_consumption": 7684,
+    "month": 2,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 74,
+    "companyid": 8,
+    "data_consumption": 118334,
+    "month": 3,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 75,
+    "companyid": 8,
+    "data_consumption": 86694,
+    "month": 4,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 76,
+    "companyid": 8,
+    "data_consumption": 65321,
+    "month": 5,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 77,
+    "companyid": 8,
+    "data_consumption": 74033,
+    "month": 6,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 78,
+    "companyid": 8,
+    "data_consumption": 56843,
+    "month": 7,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 79,
+    "companyid": 8,
+    "data_consumption": 120069,
+    "month": 8,
+    "status": "unpaid",
+    "year": 2021
+  },
+  {
+    "id": 80,
+    "companyid": 9,
+    "data_consumption": 32137,
+    "month": 10,
+    "status": "paid",
+    "year": 2020
+  },
+  {
+    "id": 81,
+    "companyid": 9,
+    "data_consumption": 85737,
+    "month": 11,
+    "status": "paid",
+    "year": 2020
+  },
+  {
+    "id": 82,
+    "companyid": 9,
+    "data_consumption": 36714,
+    "month": 12,
+    "status": "paid",
+    "year": 2020
+  },
+  {
+    "id": 83,
+    "companyid": 9,
+    "data_consumption": 41882,
+    "month": 1,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 84,
+    "companyid": 9,
+    "data_consumption": 85534,
+    "month": 2,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 85,
+    "companyid": 9,
+    "data_consumption": 64398,
+    "month": 3,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 86,
+    "companyid": 9,
+    "data_consumption": 69959,
+    "month": 4,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 87,
+    "companyid": 9,
+    "data_consumption": 91251,
+    "month": 5,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 88,
+    "companyid": 9,
+    "data_consumption": 100885,
+    "month": 6,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 89,
+    "companyid": 9,
+    "data_consumption": 106502,
+    "month": 7,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 90,
+    "companyid": 9,
+    "data_consumption": 89038,
+    "month": 8,
+    "status": "paid",
+    "year": 2021
+  },
+  {
+    "id": 91,
+    "companyid": 9,
+    "data_consumption": 59287,
+    "month": 9,
+    "status": "unpaid",
+    "year": 2021
+  },
+  {
+    "id": 92,
+    "companyid": 10,
+    "data_consumption": 38978,
+    "month": 2,
+    "status": "paid",
+    "year": 2019
+  },
+  {
+    "id": 93,
+    "companyid": 10,
+    "data_consumption": 30454,
+    "month": 3,
+    "status": "paid",
+    "year": 2019
+  },
+  {
+    "id": 94,
+    "companyid": 10,
+    "data_consumption": 16461,
+    "month": 4,
+    "status": "paid",
+    "year": 2019
+  },
+  {
+    "id": 95,
+    "companyid": 10,
+    "data_consumption": 22555,
+    "month": 5,
+    "status": "paid",
+    "year": 2019
+  },
+  {
+    "id": 96,
+    "companyid": 10,
+    "data_consumption": 23322,
+    "month": 6,
+    "status": "paid",
+    "year": 2019
+  },
+  {
+    "id": 97,
+    "companyid": 10,
+    "data_consumption": 17608,
+    "month": 7,
+    "status": "paid",
+    "year": 2019
+  },
+  {
+    "id": 98,
+    "companyid": 10,
+    "data_consumption": 9047,
+    "month": 8,
+    "status": "paid",
+    "year": 2019
+  },
+  {
+    "id": 99,
+    "companyid": 10,
+    "data_consumption": 19606,
+    "month": 9,
+    "status": "paid",
+    "year": 2019
+  },
+  {
+    "id": 100,
+    "companyid": 10,
+    "data_consumption": 39543,
+    "month": 10,
+    "status": "unpaid",
+    "year": 2019
+  }
+]

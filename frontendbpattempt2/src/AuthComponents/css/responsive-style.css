@@ -1,0 +1,25 @@
+/* Initially we write generic styles
+about
+services
+for footer
+other cat........ */
+
+@media (max-width: 1024px){
+    /*About section*/
+}
+
+@media (max-width: 991px){
+    /* Custom classes*/
+    
+    /* Nav styles */
+
+    /* Banner Styles */
+}
+
+@media (max-width: 767px){
+    /*About section*/
+}
+
+@media (max-width: 330px){
+    /*About section*/
+}

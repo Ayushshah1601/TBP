@@ -1,0 +1,30 @@
+version: '3'
+services:
+  mysql-standalone:
+    image: 'mysql:5.7'
+    container_name: mysql-container
+    environment:
+      - MYSQL_ROOT_PASSWORD=1601
+      - MYSQL_DATABASE=billingportal
+    ports:
+      - "3320:3306"
+
+    command:
+      - --sql_mode=
+
+  springboot-docker-container:
+    image: springboot-docker-container
+    ports:
+      - "3030:3030"
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:mysql://mysql-standalone:3306/billingportal?autoReconnect=true&useSSL=false
+      SPRING_DATASOURCE_USERNAME: "root"
+      SPRING_DATASOURCE_PASSWORD: "1601"
+    depends_on:
+      - mysql-standalone
+  react-app:
+    image: frontendbpattempt2
+    ports:
+      - "3000:3000"
+
+

@@ -1,0 +1,139 @@
+
+
+ .glow-on-hover2 {
+
+ 
+    width: 80px;
+    height: 40px;
+    border: none;
+    outline: none;
+    color: #fff;
+    background:purple;
+    cursor: pointer;
+    position: relative;
+    z-index: 0;
+    border-radius: 10px;
+}
+
+.glow-on-hover2:before {
+    content: '';
+    background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
+    position: absolute;
+    top: -2px;
+    left:-2px;
+
+    background-size: 400%;
+    z-index: -1;
+    filter: blur(5px);
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    animation: glowing 20s linear infinite;
+    opacity: 0;
+    transition: opacity .3s ease-in-out;
+    border-radius: 10px;
+}
+
+.glow-on-hover2:active {
+    color: darkblue
+}
+
+.glow-on-hover2:active:after {
+    background: transparent;
+}
+
+.glow-on-hover2:hover:before {
+    opacity: 1;
+}
+
+.glow-on-hover2:after {
+    z-index: -1;
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    /* background: ; */
+    left: 0;
+    top: 0;
+    border-radius: 10px;
+}
+
+@keyframes glowing {
+    0% { background-position: 0 0; }
+    50% { background-position: 400% 0; }
+    100% { background-position: 0 0; }
+}
+
+    
+    
+        .searchbar{
+            margin-bottom: auto;
+            margin-top: auto;
+            height: 40px;
+            background-color:blueviolet;
+            border-radius: 30px;
+     
+            }
+        
+            .search_input{
+            color: white;
+            border: 10px;
+            outline: 0;
+            background: none;
+            width: 0;
+            /* padding-left: 10px; */
+            caret-color:transparent;
+            line-height: 30px;
+            transition: width 0.4s linear;
+            }
+        
+            .searchbar:hover > .search_input{
+    
+            width: 220px;
+            padding-left: 20px;
+            caret-color:blueviolet;
+            transition: width 0.4s linear;
+            }
+        
+            .searchbar:hover > .search_icon{
+            
+            background: white;
+            color: black;
+            }
+        
+            .search_icon{
+            margin-top: auto;
+            
+            height: 40px;
+            width: 50px;
+            float: right;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-radius: 30px;
+            color:white;
+            text-decoration:none;
+            }
+    
+            .bgn-custom{
+                    width: 100%;
+                    background: url("../images/tpc.png") no-repeat center;
+                    background-size: 100% 100%;
+                    padding: 16.875rem 0 9.375rem;
+                }
+        
+                .div-custom{
+                    width: '40%' ;
+                    padding-top: 40px; 
+                    border-radius: 20%;
+                }
+        
+                .mytable{
+                    /* background-color: #9dedf3 !important; */
+                    width: 100%;
+                    height:100%;
+                    border:2px solid red;
+                    padding-left: 10px;
+                    
+                }
+    
+        
